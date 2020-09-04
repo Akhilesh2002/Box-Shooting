@@ -1,5 +1,5 @@
 # Box-Shooting
-This is a 3D game made in unity3d. Currently this is windows build only so this build will not work on mac on android.
+This is a 3D game made in unity3d. Currently this is windows build only so this build will not work on mac or android.
 
 In this game you have to shoot cubes floating in air. There are four types of cubes:-
 Green - Increase the score
